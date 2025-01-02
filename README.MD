@@ -14,8 +14,8 @@ I'm FrxstDev and I program all kinds of things.**
 </p>
 
 ## Social Media
-[![YouTube](https://img.shields.io/badge/HackV0gel-%23E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FrxstDev)
-[![Discord](https://img.shields.io/badge/HackV0gel-blue.svg?color=4682B4&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wnhvkk7XWU)
+[![YouTube](https://img.shields.io/badge/FrxstDev-%23E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FrxstDev)
+[![Discord](https://img.shields.io/badge/Cerya Project-blue.svg?color=4682B4&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wnhvkk7XWU)
 
 
 ## My Skills
