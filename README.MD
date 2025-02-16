@@ -14,7 +14,7 @@ I'm FrxstDev and I program all kinds of things.**
 </p>
 
 ## Social Media
-[![YouTube](https://img.shields.io/badge/Drxem's-YouTube-%23E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FrxstDev)
+[![YouTube](https://img.shields.io/badge/Drxem's-YouTube-%23E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Drxem)
 [![Discord](https://img.shields.io/badge/BlockBash-Discord-blue.svg?color=4682B4&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wnhvkk7XWU)
 
 
